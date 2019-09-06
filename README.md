@@ -1,6 +1,7 @@
 # image_search
 
-Search images on the internet with a keyword
+Search images on the internet with a keyword.
+You can replace "apiKey" in "api.dart" file with you own Pixabay Api Key.
 
 ## Getting Started
 
